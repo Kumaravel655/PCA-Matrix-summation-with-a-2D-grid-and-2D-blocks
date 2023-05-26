@@ -1,5 +1,4 @@
-# PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks.-Adapt-it-to-integer-matrix-addition.-
-
+# PCA-Matrix-summation-with-a-2D-grid-and-2D-blocks
 ## Aim:
 To perform integer matrix summation with a 2D-grid and 2D-blocks and find the best execution configuration.
 
